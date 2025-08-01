@@ -1,4 +1,4 @@
-# AI-Powered-Drug-Discovery-with-Deep-Learning# 
+# AI-Powered-Drug-Discovery-with-Deep-Learning 
 This project leverages deep learning and cheminformatics to predict the **IC50 values** (a measure of bioactivity) of chemical compounds. It uses **SMILES strings**, processes them into molecular fingerprints using **RDKit**, and trains a regression model with **TensorFlow/Keras** to enable **virtual screening** of new drug candidates.
 
 ---
